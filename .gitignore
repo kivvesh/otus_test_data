@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 files/
-files/!get_file.py
 
 # Distribution / packaging
 .Python
